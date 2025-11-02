@@ -75,7 +75,7 @@ int ricerca_bin(int v[], int inf, int sup, int ele){
 
 # Output
 
-![Risultato della ricerca](immagini/cattura_1.png)
+![Risultato della ricerca](immagini/cattura_1.PNG)
 
 # Autore
 
